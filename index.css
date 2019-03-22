@@ -130,7 +130,7 @@ display: flex;
 #about{
   margin: 10%;
   margin-top: 5%;
-
+  text-align: left;
 }
 #about p{
   font-family: 'Rajdhani', sans-serif;
