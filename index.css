@@ -71,6 +71,10 @@ h2 {
   background-size: cover;
   background-repeat: no-repeat;
 }
+h3{
+color: white;
+font-family: 'Staatliches', cursive;
+}
 
 #moto{
   padding-bottom: 5%;
@@ -143,7 +147,7 @@ display: flex;
 #about h1{
     text-align: left;
 }
-#about h2{
+#about h3{
   text-align: left;
 }
 #contact{
