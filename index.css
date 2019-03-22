@@ -140,6 +140,9 @@ display: flex;
   text-align: left;
 
 }
+#about h1{
+    text-align: left;
+}
 #about h2{
   text-align: left;
 }
