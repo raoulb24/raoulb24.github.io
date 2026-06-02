@@ -2,7 +2,7 @@
 
 Personal portfolio website of **Raoul Berger**, Creative Director & Marketing Strategist based in Amsterdam.
 
-🔗 **Live site:** https://raoulb24.github.io/Raoulberger.github.io/
+🔗 **Live site:** https://raoulb24.github.io/
 
 ## About
 
